@@ -1,5 +1,6 @@
 # Knotes-Central
 https://developer1010x.github.io/KnotesCentral/
+
 A humble attempt to create a collaborative platform for students to share notes and resources.
 
 ## Idea
