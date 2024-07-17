@@ -1,6 +1,6 @@
 # Electrical and Instrumentation Engineering
 
-## [Home](index.md) | [About](about.md) | [Credits](credits.md)
+## [Home](../main/index.md) | [Updates](../main/updates.md) | [Credits](../main/credits.md)
 
 ---
 
