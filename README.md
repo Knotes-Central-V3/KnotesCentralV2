@@ -21,3 +21,4 @@ Knotes-Central is a collaborative platform designed to help students share notes
 - **Open Drive Storage:** All materials are stored in an open drive for easy access.
 
 ## Getting Started
+- Start Studying!!!!
