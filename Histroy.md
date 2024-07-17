@@ -1,6 +1,7 @@
-
-
 # History of Knotes Central
+**Active Website Link:** https://developer1010x.github.io/KnotesCentral/
+
+
 
 
 
@@ -10,6 +11,8 @@
 - **Features**:
   - Enhanced user interface for better navigation.
   - Improved load times and performance of the website.
+**Active Website Link:** https://developer1010x.github.io/KnotesCentral/
+
 ## Version 1.0
 - **Contributors**: S Prajwall Narayana
 - **Description**: The initial version of the website was created to serve as a comprehensive repository for storing and sharing academic notes and materials across all branches.
