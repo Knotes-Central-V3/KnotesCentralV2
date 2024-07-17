@@ -20,16 +20,18 @@ Welcome to the Notes Website, a collaborative platform designed to support stude
 | BIOTECH    | [BIOTECH](./BT/index.md) |
 | CHEM       | [CHEM](./CH/index.md)    |
 | ASE        | [ASE](./ASE/index.md)    |
+|IEM         | [IEM](../IEM/index.md)   |    
 
 ## Basic Sciences
 
-| Cycle     | Link                         |
-| --------- | ---------------------------- |
-| Physics   | [Physics](./PHY/index.md)    |
-| Chemistry | [Chemistry](./CHEM/index.md) |
+| Cycle     | Link                          |
+| --------- | ----------------------------  |
+| Physics   | [Physics](../PHY/index.md)    |
+| Chemistry | [Chemistry](../CHEM/index.md) |
 
 ## Miscellaneous
 
 Other resources that are present - [Miscellaneous](https://drive.google.com/drive/folders/1G74LEKfY4ykhb06lyVv_yIbS-DMO7NMq?usp=drive_link)
 
-&copy; 2024 Knotes Central
+## Pervious Year Papers
+PYQP Link : [PYQ](../PYQ/index.md) 
