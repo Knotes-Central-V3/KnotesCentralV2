@@ -33,4 +33,8 @@ Welcome to the Notes Website, a collaborative platform designed to support stude
 
 Other resources that are present - [Miscellaneous](https://drive.google.com/drive/folders/1G74LEKfY4ykhb06lyVv_yIbS-DMO7NMq?usp=drive_link)
 
+## Pervious Year Papers
+PYQP Link : [PYQ](../PYQ/index.md) 
+
+
 &copy; 2024 Knotes Central
