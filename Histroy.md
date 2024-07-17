@@ -5,7 +5,7 @@
 
 
 
-## Version 1.1 - Refactoring and Updates 
+## Version 2.0 - Refactoring and Updates 
 - **Contributor**: Krishna Tejaswi
 - **Description**: Refactored the website with additional features and improvements based on user feedback.
 - **Features**:
