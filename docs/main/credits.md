@@ -8,7 +8,7 @@
 
 | Name                                          | Dept | Year      |
 | --------------------------------------------- | ---- | --------- |
-| S Prajwall Narayanan                          | CSE  | 2021-2025 |
+| [S Prajwall Narayanan](https://developer1010x.github.io/PORTFOLIO/)                         | CSE  | 2021-2025 |
 | [Krishnatejaswi S](https://kts-o7.github.io/) | CSE  | 2021-2025 |
 | Shruthishree                                  | CH   | 2021-2025 |
 | H P Manoj                                     | CSE  | 2021-2025 |
