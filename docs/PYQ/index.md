@@ -10,7 +10,7 @@ You can access through this RVCE link: [PYQP](http://) within RVCE premises usin
 
 ---
 
-**Note:** Some of the subjects' old question papers (both UG & PG) may not have been uploaded.
+**Note:** Some of the subjects old question papers (both UG & PG) may not have been uploaded.
 
 If you are **UNABLE** to open the link, please follow the following procedure:
 
