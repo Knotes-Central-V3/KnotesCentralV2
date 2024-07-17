@@ -26,12 +26,12 @@ Welcome to the Notes Website, a collaborative platform designed to support stude
 
 | Cycle     | Link                          |
 | --------- | ----------------------------  |
-| Physics   | [Physics](../PHY/index.md)    |
-| Chemistry | [Chemistry](../CHEM/index.md) |
+| Physics   | [Physics](./PHY/index.md)    |
+| Chemistry | [Chemistry](./CHEM/index.md) |
 
 ## Miscellaneous
 
 Other resources that are present - [Miscellaneous](https://drive.google.com/drive/folders/1G74LEKfY4ykhb06lyVv_yIbS-DMO7NMq?usp=drive_link)
 
 ## Pervious Year Papers
-PYQP Link : [PYQ](../PYQ/index.md) 
+PYQP Link : [PYQ](./PYQ/index.md) 
