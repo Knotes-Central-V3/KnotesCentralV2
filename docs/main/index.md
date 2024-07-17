@@ -20,6 +20,7 @@ Welcome to the Notes Website, a collaborative platform designed to support stude
 | BIOTECH    | [BIOTECH](../BT/index.md) |
 | CHEM       | [CHEM](../CH/index.md)    |
 | ASE        | [ASE](../ASE/index.md)    |
+|IEM         | [IEM](../IEM/index.md)    |    
 
 ## Basic Sciences
 
