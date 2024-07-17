@@ -2,7 +2,7 @@
 
 Welcome to the Notes Website, a collaborative platform designed to support students in their academic journey at our college. As we near graduation, we want to ensure that this resource remains valuable and up-to-date for future batches.
 
-# [About](../Main/about.md) | [Updates](./updates.md) | [Credits](./credits.md)
+# [About](.docs/main/about.md) | [Updates](./updates.md) | [Credits](./credits.md)
 
 ## UG Courses
 
