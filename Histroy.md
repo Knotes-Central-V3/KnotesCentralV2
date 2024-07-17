@@ -6,7 +6,7 @@ Certainly! Here is the revised `History.md` file including the specific contribu
 
 
 
-## Version 1.1 - Refactoring and Updates (Date: [Insert Date])
+## Version 1.1 - Refactoring and Updates 
 - **Contributor**: Krishna Tejaswi
 - **Description**: Refactored the website with additional features and improvements based on user feedback.
 - **Features**:
@@ -14,7 +14,7 @@ Certainly! Here is the revised `History.md` file including the specific contribu
   - Added search functionality to quickly find specific notes and materials.
   - Included new sections for additional courses based on user requests.
   - Improved load times and performance of the website.
-## Version 1.0 - Initial Launch (Date: [Insert Date])
+## Version 1.0
 - **Contributors**: S Prajwall Narayana, Krishna Tejaswi
 - **Description**: The initial version of the website was created to serve as a comprehensive repository for storing and sharing academic notes and materials across all branches.
 - **Features**:
@@ -23,8 +23,6 @@ Certainly! Here is the revised `History.md` file including the specific contribu
   - Specific links for each course, where students can access notes, previous years' question papers, and other pertinent materials.
   - User-friendly interface with easy navigation.
 - **Old Website Link**: 
-
-- 
 ## Future Plans
 - **Description**: Planned features and updates to further enhance the website's functionality and user experience.
 - **Features**:
