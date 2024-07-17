@@ -5,9 +5,9 @@ A humble attempt to create a collaborative platform for students to share notes 
 
 ## Website Developers:
 
--[Developer1010x](https://developer1010x.github.io/PORTFOLIO/)
+- [Developer1010x](https://developer1010x.github.io/PORTFOLIO/)
 
--[KTS-o7](https://kts-o7.github.io)
+- [KTS-o7](https://kts-o7.github.io)
 
 ## Overview
 
