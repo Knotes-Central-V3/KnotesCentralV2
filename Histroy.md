@@ -16,7 +16,7 @@
 - **Features**:
   - Homepage with an introduction to the website's purpose and features.
   - Specific links for each course, where students can access notes, previous years' question papers, and other pertinent materials.
-- **Old Website Link**: 
+- **Old Website Link**: https://developer1100x.github.io/KnotesCentralV1.0/
 ## Future Plans
 - **Description**: Planned features and updates to further enhance the website's functionality and user experience.
 - **Features**:
