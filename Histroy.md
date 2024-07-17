@@ -11,7 +11,7 @@
 - **Features**:
   - Enhanced user interface for better navigation.
   - Improved load times and performance of the website.
-** V2.0 Website Link:** https://developer1010x.github.io/KnotesCentral/
+**V2.0 Website Link:** https://developer1010x.github.io/KnotesCentral/
 
 ## Version 1.0
 - **Contributors**: S Prajwall Narayana
