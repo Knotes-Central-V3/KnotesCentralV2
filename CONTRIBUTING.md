@@ -11,7 +11,7 @@ Thank you for considering contributing to Knotes Central! Your contributions hel
 
 ### 2. Fill Out the Google Form
 
-1. Go to the [Credits page](credits.html).
+1. Go to the [Credits page](https://developer1010x.github.io/KnotesCentral/main/credits.html).
 2. Navigate to the "Report Issues and Send Content" section.
 3. Fill out the Google form with the following details:
    - Your full name
