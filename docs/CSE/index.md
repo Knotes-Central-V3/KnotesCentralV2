@@ -24,3 +24,10 @@
 ## Miscellaneous
 
 - Some useful site - [Link](https://juggadnauts.notion.site/Juggadnauts-d42b335ffc7d4909bcc2d14311e443f0)
+
+
+
+
+<p style="color:red; font-size:small;">
+  Login Via RVCE Mail ID to Access the Notes!!
+</p>
