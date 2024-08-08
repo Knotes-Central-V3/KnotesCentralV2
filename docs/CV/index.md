@@ -16,3 +16,8 @@
 | Third Year - Even Semester  | [Google Drive](https://drive.google.com/drive/folders/1dXtoOwiYnWs6Q1T_gLrn0vSx1KP6Bot0?usp=sharing)    |
 | Fourth Year - Odd Semester  | [Google Drive](https://drive.google.com/drive/folders/1J7uGGQaUslhfrSbIKaijt0QXDoYFodWo?usp=sharing)    |
 | Subject(X)                  | [Google Drive](https://drive.google.com/drive/folders/1L-YbxHPef8suUHlcMrmdsxmgh8magCJJ?usp=share_link) |
+
+
+<p style="color:red; font-size:small;">
+  Login Via RVCE Mail ID to Access the Notes!!
+</p>
