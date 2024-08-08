@@ -38,3 +38,10 @@ PYQP Link : [PYQ](../PYQ/index.md)
 
 
 &copy; 2024 Knotes Central
+
+
+
+
+<p style="color:red; font-size:small;">
+  Login Via RVCE Mail ID to Access the Notes !!
+</p>
