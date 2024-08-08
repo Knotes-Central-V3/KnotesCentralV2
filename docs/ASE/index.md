@@ -18,5 +18,5 @@
 | Subject(X)                  | [Google Drive](https://drive.google.com/drive/folders/1INUeC_JVpQtH0S75bXQpa0-Z31ARxcRP?usp=share_link) |
 
 <p style="color:red; font-size:small;">
-  #### Login Via RVCE Mail ID to Access the Notes
+   Login Via RVCE Mail ID to Access the Notes!!
 </p>
