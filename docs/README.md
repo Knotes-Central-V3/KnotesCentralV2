@@ -35,3 +35,10 @@ Other resources that are present - [Miscellaneous](https://drive.google.com/driv
 
 ## Pervious Year Papers
 PYQP Link : [PYQ](./PYQ/index.md) 
+
+
+
+
+<p style="color:red; font-size:small;">
+  Login Via RVCE Mail ID to Access the Notes !!
+</p>
