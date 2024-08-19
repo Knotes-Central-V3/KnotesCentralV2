@@ -22,6 +22,8 @@
 | Shard PM                                      | CV   | 2021-2025 |
 | Shrinidhi Udupa                               | ECE  | 2021-2025 |
 | Sushas                                        | ETE  | 2022-2026 |
+| Jagadeesh                                         | AS  | 2021-2025
+|
 
 List of Contributors: [**Contributors**](https://docs.google.com/spreadsheets/d/1CcoPOLFaWOJdxpLAZfO3Y8h9M2i830wRb3_0TwbtZvM/edit?usp=sharing)
 
