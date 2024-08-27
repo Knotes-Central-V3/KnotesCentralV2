@@ -6,14 +6,14 @@
 
 ### This project was made possible by the efforts of the following individuals who had stored respective Dept Notes in drives and had a vision of Helping fellow classmates and beyond
 
-                           ###DEVELOPERS  
+                           # DEVELOPERS  
 |------------------------------------------------------------------|                           
 | Name                                          | Dept | Year      |
 | --------------------------------------------- | ---- | --------- |
 | [S Prajwall Narayana](https://developer1010x.github.io/PORTFOLIO/) | CSE  | 2021-2025 |
 | [Krishnatejaswi S](https://kts-o7.github.io/) | CSE  | 2021-2025 |
 |------------------------------------------------------------------|
-                        ###CONTRIBUTORS                            
+                        # CONTRIBUTORS                            
 | Name                                          | Dept | Year      |
 | --------------------------------------------- | ---- | --------- |
 | Arpitha R S                                   | BT   | 2020-2024 |
