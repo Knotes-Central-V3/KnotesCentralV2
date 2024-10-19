@@ -5,7 +5,7 @@
 ---
 Dear user,
 
-You can access through this RVCE link: [PYQP](http://) within RVCE premises using college IP address, old semester examination question papers of both UG (RVCE autonomous) and PG (VTU) papers by giving appropriate keyword search. This can be accessed in any department & any system through college IP address ONLY so you gotta be connected to College WiFi.
+You can access through this RVCE link: [PYQP](http://172.16.44.10:8080/jspui/handle/123456789/207) within RVCE premises using college IP address, old semester examination question papers of both UG (RVCE autonomous) and PG (VTU) papers by giving appropriate keyword search. This can be accessed in any department & any system through college IP address ONLY so you gotta be connected to College WiFi.
 
 ---
 **Note:** Some of the subjects old question papers (both UG & PG) may not have been uploaded.
