@@ -12,7 +12,7 @@
 
 | Name                                          | Dept | Year      |
 | --------------------------------------------- | ---- | --------- |
-| [S Prajwall Narayana](https://developer1010x.github.io/PORTFOLIO/) | CSE  | 2021-2025 |
+| [S Prajwall Narayana](https://developer1010x.github.io/S_Prajwall_Narayana/) | CSE  | 2021-2025 |
 | [Krishnatejaswi S](https://kts-o7.github.io/) | CSE  | 2021-2025 |
 
 ---
