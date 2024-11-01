@@ -24,4 +24,5 @@ Back to [CSE](./index.md)
 ### Shoutout to the core contributor
 
 > [KTS-o7](https://github.com/KTS-o7)
+
 > [Developer1010x](https://github.com/Developer1010x)
