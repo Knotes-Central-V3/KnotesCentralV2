@@ -30,7 +30,7 @@ Welcome to the Notes Website, a collaborative platform designed to support stude
 | Physics   | [Physics](./PHY/index.md)    |
 | Chemistry | [Chemistry](./CHEM/index.md) |
 
-## Miscellaneous
+## Common to all
 
 Other resources that are present - 
 
