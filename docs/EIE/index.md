@@ -6,18 +6,13 @@
 
 # Course Material
 
-| Year & Semester             | Link                                                                                                 |
-| --------------------------- | ---------------------------------------------------------------------------------------------------- |
-| First Year - Odd Semester   | [Google Drive](https://drive.google.com/drive/folders/1uLPoKTiZ0B0mumFpR1JIE0DtsY8b1BkH?usp=sharing) |
-| First Year - Even Semester  | [Google Drive](https://drive.google.com/drive/folders/1A0h327alzX1RSxna-XnUegmf_JGQhy1Z?usp=sharing) |
-| Second Year - Odd Semester  | [Google Drive](https://drive.google.com/drive/folders/11tKA0x52ybf7v_XWHJDPMHJw-KPwf7jC?usp=sharing) |
-| Second Year - Even Semester | [Google Drive](https://drive.google.com/drive/folders/16AC368I3yCquE_JBs9EQjeYeEn3MSAkQ?usp=sharing) |
-| Third Year - Odd Semester   | [Google Drive](https://drive.google.com/drive/folders/1TDcpwXluU0GyF-_zVVfCHsEXz5QdCRJ6?usp=sharing) |
-| Third Year - Even Semester  | [Google Drive](https://drive.google.com/drive/folders/1i-6FVGrW1zdkRoKIGb1TjxrOuYDm9F3D?usp=sharing) |
-| Fourth Year - Odd Semester  | [Google Drive](https://drive.google.com/drive/folders/1VuOlU66OsqE0g5Sj5aDeiWvWGhldz4Ho?usp=sharing) |
-| Subject(X)                  | [Google Drive](https://drive.google.com/drive/folders/1ptUIHLaFs67Z48BmB8PzSn0I5t-L-kAX?usp=sharing) |
+| Year             | Link                                                                                              |
+| --------------------------- | ------------------------------------------------------------------------------------------------- |
+| Second Year                 | [Link](https://drive.google.com/drive/folders/1a1uilVTF3dxkTFcrWjfkZcK_xFMvFwws?usp=share_link)   |
+| Third Year                  | [Link](https://drive.google.com/drive/folders/1c5Izw4ZG9L6PngdVzHZv-72m3TbbMXru?usp=share_link)   |
+| Fourth Year                 | [Link](https://drive.google.com/drive/folders/1Zci66GHOyHAnDz8zK1dCPkOB_U5XDva0?usp=share_link)   |
 
-
+___
 <p style="color:red; font-size:small;">
   Login Via RVCE Mail ID to Access the Notes !!
 </p>
