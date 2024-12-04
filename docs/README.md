@@ -36,8 +36,9 @@ Other resources that are present -
 
 | Type      | Link                          |
 | --------- | ----------------------------  |
-|Miscellaneous|[Miscellaneous](https://drive.google.com/drive/folders/1G74LEKfY4ykhb06lyVv_yIbS-DMO7NMq?usp=drive_link)|
-|Global(common to all)||
+|Global(common to all)|[global](https://drive.google.com/drive/folders/1nQTzNXHfLxw4NlNkiD8dsu1nwkJ9FLb7?usp=share_link)|
+|Miscellaneous (common to all)|[Miscellaneous](https://drive.google.com/drive/folders/1G74LEKfY4ykhb06lyVv_yIbS-DMO7NMq?usp=drive_link)|
+
 
 
 
