@@ -43,12 +43,12 @@ Other resources that are present -
 
 
 ## Activity Points Draft 
-| --------- | ----------------------------  |
-|Activity points Draft | [APD](https://drive.google.com/drive/folders/1HD0FWV8c7qvXN8WgNkKu5TFgl8X35z9T?usp=share_link) |
+
+Activity points Draft | [APD](https://drive.google.com/drive/folders/1HD0FWV8c7qvXN8WgNkKu5TFgl8X35z9T?usp=share_link) |
 
 ## Pervious Year Papers
-| --------- | ----------------------------  |
-|PYQP Link | [PYQ](./PYQ/index.md) |
+
+PYQP Link | [PYQ](./PYQ/index.md) |
 
 
 
