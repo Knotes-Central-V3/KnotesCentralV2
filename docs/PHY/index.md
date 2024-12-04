@@ -8,7 +8,11 @@
 
 - P cycle is common for all branches in the first year.
   Please find the course material for the Physics Cycle below:
-  [Link](https://drive.google.com/drive/folders/1zWimgh62ND2MWNGqiaH9iGqh9dbCnjdr?usp=sharing)
+
+| Topic                | Link                                                     |
+| -------------------- | -------------------------------------------------------- |
+|Physics Cycle Notes |  [Link](https://drive.google.com/drive/folders/1zWimgh62ND2MWNGqiaH9iGqh9dbCnjdr?usp=sharing)|
+___
 
 # Course Material
 
