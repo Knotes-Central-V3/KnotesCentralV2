@@ -34,23 +34,23 @@ Welcome to the Notes Website, a collaborative platform designed to support stude
 | Type      | Link                          |
 | --------- | ----------------------------  |
 |Global(common to all)|[global](https://drive.google.com/drive/folders/1nQTzNXHfLxw4NlNkiD8dsu1nwkJ9FLb7?usp=share_link)|
-
+___
 ##Miscellaneous 
 Other resources that are present - 
 | Type      | Link                          |
 | --------- | ----------------------------  |
 |Miscellaneous (useful to all)|[Miscellaneous](https://drive.google.com/drive/folders/1G74LEKfY4ykhb06lyVv_yIbS-DMO7NMq?usp=drive_link)|
 
-
+___
 ## Activity Points Draft 
 
 Activity points Draft | [APD](https://drive.google.com/drive/folders/1HD0FWV8c7qvXN8WgNkKu5TFgl8X35z9T?usp=share_link) |
-
+____
 ## Pervious Year Papers
 
 PYQP Link | [PYQ](./PYQ/index.md) |
 
-
+___
 
 
 <p style="color:red; font-size:small;">
