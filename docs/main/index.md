@@ -2,7 +2,8 @@
 
 Welcome to Knotes Central, it is a collaborative student platform created to empower and support fellow students in their academic journey at our college. This initiative is not a competition or a product for commercial use—it's a shared effort to build a resource for academic growth and success. As we approach graduation, our goal is to ensure this platform remains valuable, relevant, and accessible for future batches. 
 
-# [About](./main/about.md) | [Updates](./main/updates.md) | [Credits](./main/credits.md)
+# [About](./about.md) | [Updates](./updates.md) | [Credits](./credits.md)
+
 
 ## UG Courses
 
