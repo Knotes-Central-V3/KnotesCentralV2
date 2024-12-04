@@ -8,7 +8,7 @@
 
 # ASE (Aerospace Engineering)
 
-| Year & Semester             | Link                                                                                              |
+| Year            | Link                                                                                              |
 | --------------------------- | ------------------------------------------------------------------------------------------------- |
 | Second Year                 | [Link](https://drive.google.com/drive/folders/1eFHv_2vwV21pHNTTlPULqfN9HicCiEM2?usp=share_link)   |
 | Third Year                  | [Link](https://drive.google.com/drive/folders/1Z9gPf5aucP5B3Y-MKZG9qwnva-OnRrTA?usp=share_link)   |
