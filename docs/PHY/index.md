@@ -14,5 +14,5 @@
 
 | Topic                | Link                                                     |
 | -------------------- | -------------------------------------------------------- |
-| Physics RVCE Website | [Link](https://physicsrvce.wordpress.com)                |
-| Physics Notes        | [Link](https://physicsrvce.wordpress.com/physics-notes/) |
+| RVCE Physics Dept Website | [Link](https://physicsrvce.wordpress.com)                |
+| Physics Cycle Notes        | [Link](https://physicsrvce.wordpress.com/physics-notes/) |
