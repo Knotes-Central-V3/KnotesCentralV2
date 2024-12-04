@@ -16,8 +16,6 @@
 [Link to lab](./labs.md)
 
 ---
-##...
-___
 
 ## Miscellaneous
 
