@@ -32,13 +32,13 @@
 | Shrinidhi Udupa                               | ECE  | 2021-2025 |
 | Vijay Kiran                                   | ECE  | 2021-2025 |
 | Mukul K                                       | ME   | 2021-2025 |
+| Vardhan                                       | IEM  | 2021-2025 |
 | Dhruv                                         | EIE  | 2022-2026 |
 | Sushas                                        | ETE  | 2022-2026 |
-|||
-|||
-|||
-|||
-|||
+| Shreesha                                      | EIE  | 2022-2026 |
+| Afnan                                         | ETE  | 2022-2026 |
+| Megha                                         | CH   | 2022-2026 |
+| Hemanth                                       | CSE  | 2022-2026 |
 
 
 
