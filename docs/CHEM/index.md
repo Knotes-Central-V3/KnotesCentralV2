@@ -7,7 +7,13 @@
 # Course Material
 
 This is a common course material for all the branches in the Chemistry cycle.
-[Link](https://drive.google.com/drive/folders/1eu7lOYdOV3zb-RaI9-wBLOzHieqa35MP?usp=sharing)
+
+
+| Topic                | Link                                                     |
+| -------------------- | -------------------------------------------------------- |
+| Chemistry cycle Notes |  [Link](https://drive.google.com/drive/folders/1eu7lOYdOV3zb-RaI9-wBLOzHieqa35MP?usp=sharing)|
+
+
 
 
 
