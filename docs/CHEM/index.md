@@ -6,7 +6,7 @@
 
 # Course Material
 
-This is a common course material for all the branches in the Chemistry cycle.
+- This is a common course material for all the branches in the Chemistry cycle.
 
 
 | Topic                | Link                                                     |
