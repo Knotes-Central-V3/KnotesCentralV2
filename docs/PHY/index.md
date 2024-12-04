@@ -15,4 +15,4 @@
 | Topic                | Link                                                     |
 | -------------------- | -------------------------------------------------------- |
 | RVCE Physics Dept Website | [Link](https://physicsrvce.wordpress.com)                |
-| Physics Cycle Notes        | [Link](https://physicsrvce.wordpress.com/physics-notes/) |
+| Physics Dept  Notes        | [Link](https://physicsrvce.wordpress.com/physics-notes/) |
