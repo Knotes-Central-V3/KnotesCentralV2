@@ -30,21 +30,23 @@ Welcome to the Notes Website, a collaborative platform designed to support stude
 | Physics   | [Physics](./PHY/index.md)    |
 | Chemistry | [Chemistry](./CHEM/index.md) |
 
-## Common to all
-
-Other resources that are present - 
-
+## Global Subjects
 | Type      | Link                          |
 | --------- | ----------------------------  |
 |Global(common to all)|[global](https://drive.google.com/drive/folders/1nQTzNXHfLxw4NlNkiD8dsu1nwkJ9FLb7?usp=share_link)|
-|Miscellaneous (common to all)|[Miscellaneous](https://drive.google.com/drive/folders/1G74LEKfY4ykhb06lyVv_yIbS-DMO7NMq?usp=drive_link)|
+
+##Miscellaneous 
+Other resources that are present - 
+| Type      | Link                          |
+| --------- | ----------------------------  |
+|Miscellaneous (useful to all)|[Miscellaneous](https://drive.google.com/drive/folders/1G74LEKfY4ykhb06lyVv_yIbS-DMO7NMq?usp=drive_link)|
 
 
-
-
+## Activity Points Draft 
+|ACtivity points Draft | [APD](https://drive.google.com/drive/folders/1HD0FWV8c7qvXN8WgNkKu5TFgl8X35z9T?usp=share_link) |
 
 ## Pervious Year Papers
-PYQP Link : [PYQ](./PYQ/index.md) 
+|PYQP Link | [PYQ](./PYQ/index.md) |
 
 
 
