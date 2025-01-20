@@ -5,6 +5,13 @@ Welcome to Knotes Central, it is a collaborative student platform created to emp
 # [About](./about.md) | [Updates](./updates.md) | [Credits](./credits.md)
 
 
+
+<p style="color:red; font-size:small;">
+ !!!!! Knotes is under drive Maintenance !!
+</p>
+
+
+
 ## UG Courses
 
 
@@ -60,22 +67,3 @@ ___
 
 
 
-
-<!-- Maintenance Popup -->
-<div id="maintenancePopup" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); color: white; text-align: center; padding-top: 20%; z-index: 1000;">
-    <div id="maintenanceMessage" style="background-color: #333; padding: 20px; font-size: 20px; border-radius: 10px;">
-        <p>Knotes will be under maintenance. Please cooperate.</p>
-        <button id="closeButton" onclick="closePopup()" style="margin-top: 20px; padding: 10px 20px; background-color: #e74c3c; color: white; border: none; border-radius: 5px; cursor: pointer;">Close</button>
-    </div>
-</div>
-
-<script>
-
-    window.onload = function() {
-        document.getElementById('maintenancePopup').style.display = 'block';
-    }
-
-    function closePopup() {
-        document.getElementById('maintenancePopup').style.display = 'none';
-    }
-</script>
