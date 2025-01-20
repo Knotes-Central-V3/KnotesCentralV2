@@ -56,3 +56,22 @@ ___
 <p style="color:red; font-size:small;">
   Login Via RVCE Mail ID to Access the Notes !!
 </p>
+<!-- Maintenance Popup -->
+<div id="maintenancePopup" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); color: white; text-align: center; padding-top: 20%; z-index: 1000;">
+    <div id="maintenanceMessage" style="background-color: #333; padding: 20px; font-size: 20px; border-radius: 10px;">
+        <p>Knotes will be under maintenance. Please cooperate.</p>
+        <button id="closeButton" onclick="closePopup()" style="margin-top: 20px; padding: 10px 20px; background-color: #e74c3c; color: white; border: none; border-radius: 5px; cursor: pointer;">Close</button>
+    </div>
+</div>
+
+<script>
+    // Show the popup when the page loads
+    window.onload = function() {
+        document.getElementById('maintenancePopup').style.display = 'block';
+    }
+
+    // Function to close the popup
+    function closePopup() {
+        document.getElementById('maintenancePopup').style.display = 'none';
+    }
+</script>
