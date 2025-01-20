@@ -70,12 +70,11 @@ ___
 </div>
 
 <script>
-    // Show the popup when the page loads
+
     window.onload = function() {
         document.getElementById('maintenancePopup').style.display = 'block';
     }
 
-    // Function to close the popup
     function closePopup() {
         document.getElementById('maintenancePopup').style.display = 'none';
     }
