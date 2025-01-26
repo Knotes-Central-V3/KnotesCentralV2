@@ -43,7 +43,7 @@ Welcome to Knotes Central, it is a collaborative student platform created to emp
 | --------- | ----------------------------  |
 |Global(common to all)|[global](https://drive.google.com/drive/folders/1nQTzNXHfLxw4NlNkiD8dsu1nwkJ9FLb7?usp=share_link)|
 
-## Miscellaneous 
+# Miscellaneous 
 Other resources that are present - 
 | Type      | Link                          |
 | --------- | ----------------------------  |
@@ -60,7 +60,8 @@ ____
 PYQP Link | [PYQ](../PYQ/index.md) 
 
 ___
-
+## Lost and Found
+Lost and Found RVCE  | [LaF](https://lostnfound.pythonanywhere.com/login)
 
 <p style="color:red; font-size:small;">
   Login Via RVCE Mail ID to Access the Notes !!
