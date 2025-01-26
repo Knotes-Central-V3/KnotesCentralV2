@@ -56,7 +56,7 @@ Activity points Draft | [APD](https://drive.google.com/drive/folders/1HD0FWV8c7q
 ____
 ## Pervious Year Papers
 
-PYQP Link | [PYQ](./PYQ/index.md) 
+PYQP Link | [PYQ](../PYQ/index.md) 
 
 ___
 
