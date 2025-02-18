@@ -11,7 +11,7 @@
 
 | Topic                | Link                                                     |
 | -------------------- | -------------------------------------------------------- |
-|Physics Cycle Notes |  [Link](https://drive.google.com/drive/folders/1zWimgh62ND2MWNGqiaH9iGqh9dbCnjdr?usp=sharing)|
+|Physics Cycle Notes |  [Link](https://drive.google.com/drive/folders/1EHqT2hTuaADcG-q5SKuMCY75scJP4AOH?usp=sharing)|
 ___
 
 # Course Material

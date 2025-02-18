@@ -6,12 +6,11 @@
 
 # Course Material
 
-| Year              | Link                                                                                              |
+| Year            | Link                                                                                              |
 | --------------------------- | ------------------------------------------------------------------------------------------------- |
-| Second Year                 | [Link](https://drive.google.com/drive/folders/1IHphiCC_BCQWMSLMFZyeQJ-1R_zVioLA?usp=share_link)   |
-| Third Year                  | [Link](https://drive.google.com/drive/folders/1DXbQc3Zefy70T0qx53yOGydDafFjmiZj?usp=share_link)   |
-| Fourth Year                 | [Link](https://drive.google.com/drive/folders/1S502e4f0mia1ngZABxOpnDpWeHiIeMYh?usp=sharing)      |
-
+| Second Year                 | [Link](https://drive.google.com/drive/folders/19A8TV5OzjZALhCfmgNmRtf3ZQONe7fRd?usp=sharing)   |
+| Third Year                  | [Link](https://drive.google.com/drive/folders/1nJv_xZS-DcIF0Cp1EKf_6DlmZsVWHohg?usp=sharing)   |
+| Fourth Year                 | [Link](https://drive.google.com/drive/folders/1NT3PbjQID1MmzEnq3k7-Z56Q9yd3XoIC?usp=sharing)   |
 
 ___
 

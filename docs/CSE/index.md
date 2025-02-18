@@ -1,16 +1,19 @@
-# CSE and All Courses
+# Computer Science and Engineering 
 
 ## [Home](../main/index.md) | [Updates](../main/updates.md) | [Credits](../main/credits.md)
 
-## Course Material
-
-| Year             | Link                                                                                              |
-| --------------------------- | ------------------------------------------------------------------------------------------------- |
-| Second Year                 | [Link](https://drive.google.com/drive/folders/12QonDF8JVePjQ0LBYkTvLLcKGH0HMGaP?usp=share_link)   |
-| Third Year                  | [Link](https://drive.google.com/drive/folders/1IXaOU0YnoqXYa7hGVj1zSZNZUlGlzGBs?usp=share_link)   |
-| Fourth Year                 | [Link](https://drive.google.com/drive/folders/1uGTR3g0FyQMhXM5fRnf9eLF1JXlw1f9c?usp=sharing)      |
-
 ---
+
+# Course Material
+
+| Year            | Link                                                                                              |
+| --------------------------- | ------------------------------------------------------------------------------------------------- |
+| Second Year                 | [Link](https://drive.google.com/drive/folders/1gNXa1BkKYSwut8tnHifh3gFojzYWpl9Z?usp=sharing)   |
+| Third Year                  | [Link](https://drive.google.com/drive/folders/1D7v0gPbPlS5Yj3T1LLNrWCtLyFR0CLiJ?usp=sharing)   |
+| Fourth Year                 | [Link](https://drive.google.com/drive/folders/1ow4-_cxSb2pbSakJtdMFr0cR7nISMmDE?usp=sharing)   |
+
+___
+
 ## Lab Material
 
 [Link to lab](./labs.md)
@@ -24,6 +27,10 @@
 
 
 
+
+
+
+___
 <p style="color:red; font-size:small;">
   Login Via RVCE Mail ID to Access the Notes!!
 </p>

@@ -41,7 +41,7 @@ Welcome to Knotes Central, it is a collaborative student platform created to emp
 ## Global Subjects
 | Type      | Link                          |
 | --------- | ----------------------------  |
-|Global(common to all)|[global](https://drive.google.com/drive/folders/1nQTzNXHfLxw4NlNkiD8dsu1nwkJ9FLb7?usp=share_link)|
+|Global(common to all)|[global](https://drive.google.com/drive/folders/1qK6-tYMiC9EmrL8DMp8F5YghOO7vQXlR?usp=sharing)|
 
 # Miscellaneous 
 Other resources that are present - 
@@ -52,7 +52,7 @@ Other resources that are present -
 __
 ## Activity Points Draft 
 
-Activity points Draft | [APD](https://drive.google.com/drive/folders/1HD0FWV8c7qvXN8WgNkKu5TFgl8X35z9T?usp=share_link) 
+Activity points Draft | [APD](https://drive.google.com/drive/folders/1_-mIs5Dv9CPMd5U2xq-rD_xizJLc5p3W?usp=sharing) 
 Activity Points Folders | [APF](../AP/index.md) 
 ____
 ## Pervious Year Papers
