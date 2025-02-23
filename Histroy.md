@@ -1,6 +1,7 @@
 # History of Knotes Central
-**Active Website Link:** [KnotesCentralV2]()
-**Active Website Link:** [KnotesCentralV2](https://knotes-central-v3.github.io/KnotesCentralV2/)
+**Active V3 Link:** [KnotesCentralV2]()
+
+**Active V2 Link:** [KnotesCentralV2](https://knotes-central-v3.github.io/KnotesCentralV2/)
 
 ## Version 3.0 - Refactoring and Updates 
 - **Contributor**: Krishna Tejaswi , S Prajwall Narayana
@@ -12,7 +13,7 @@
   - Added search bar and other UI imporovemts
   - Private Drives 
     
-**V2.0 Website Link:** 
+**V3.0 Website Link:** 
 
 
 
