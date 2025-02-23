@@ -1,5 +1,5 @@
 # History of Knotes Central
-**Active Website Link:** https://developer1010x.github.io/KnotesCentral/
+**Active Website Link:** [KnotesCentralV2](https://knotes-central-v3.github.io/KnotesCentralV2/)
 
 
 
@@ -12,7 +12,7 @@
   - Enhanced user interface for better navigation.
   - Improved load times and performance of the website.
     
-**V2.0 Website Link:** https://developer1010x.github.io/KnotesCentral/
+**V2.0 Website Link:** https://knotes-central-v3.github.io/KnotesCentralV2/
 
 ## Version 1.0
 - **Contributors**: S Prajwall Narayana
